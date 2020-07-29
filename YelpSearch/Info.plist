@@ -40,8 +40,8 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Application wants to use your loc</string>
+	<string>Application wants to use your location</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Application wants to use your loc</string>
+	<string>Application wants to use your location</string>
 </dict>
 </plist>
